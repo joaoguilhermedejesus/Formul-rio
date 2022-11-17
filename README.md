@@ -32,6 +32,34 @@
 		        <input type="submit" value="Enviar respostas">
 
 	</form>
+	<table>
+	   <tr>
+                 < td>Horário</td>
+		 < td>Segunda</td>
+		 < td>Terça</td>
+		 < td>Quarta</td>
+		 < td>Quinta></td>
+		 < td>Sexta></td>
+	  </tr>
+	  <tr>
+	         < td>7:10</td>
+		 < td>Matemática</td>
+		 < td>Química</td>
+		 < td>Educação Financeira<td>
+		 < td>História</td>
+		 < td>Biologia</td>
+	  </tr>
+	  
+		 < td>8:00</td>
+		 < td>Educação Física</td>
+		 < td>Filosofia</td>
+		 < td>História</td>
+		 < td>Português</td>
+		 < td>Biologia</td>
+	  </tr>
+	  < tr>
+	         < td>Química</td>
+		 < td>
 
 </body>
 </html>
