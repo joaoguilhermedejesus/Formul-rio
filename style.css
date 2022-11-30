@@ -9,3 +9,11 @@ em strong {
 td {
 border: 1px solid #000000;
 }
+
+form label {
+	display:block;
+}
+
+form imput {
+	display:block;
+}
